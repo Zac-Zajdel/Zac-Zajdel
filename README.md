@@ -55,7 +55,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zac-zajdel&layout=compact&hide=html" alt="zac-zajdel" />
 </p>
 
-<p>&nbsp;
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zac-zajdel&show_icons=true" alt="zac-zajdel" />
 </p>
 
