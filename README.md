@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **zaczajdel213@gmail.com** or **724-757-4216**
 
-<br />
+---
 
 - :smiley: Frontend Technologies:
   <p align="left">
@@ -53,7 +53,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    </p>
    
- <br />
+---
  
 <details>
   <summary>:zap: Recent Github Activity</summary>
