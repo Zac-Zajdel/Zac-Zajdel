@@ -112,7 +112,7 @@
 3. 🗣 Commented on [#347](https://github.com//xaksis/vue-good-table/issues/347) in [xaksis/vue-good-table](https://github.com//xaksis/vue-good-table)
 <!--END_SECTION:activity-->
 
-<br />
+---
  
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zac-zajdel&show_icons=true" alt="zac-zajdel" />
