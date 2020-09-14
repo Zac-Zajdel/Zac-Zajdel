@@ -55,13 +55,12 @@
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
 </details>
-    
+ 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zac-zajdel&layout=compact&hide=html" alt="zac-zajdel" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zac-zajdel&show_icons=true" alt="zac-zajdel" />
 </p>
-
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zac-zajdel&show_icons=true" alt="zac-zajdel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zac-zajdel&layout=compact&hide=html" alt="zac-zajdel" />
 </p>
 
 <p align="center">
