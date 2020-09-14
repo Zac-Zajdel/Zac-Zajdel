@@ -7,6 +7,8 @@
 
 - 📫 You can reach me at **zaczajdel213@gmail.com** or **724-757-4216**
 
+<br />
+
 - :smiley: Frontend Technologies:
   <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
@@ -50,11 +52,15 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    </p>
+   
+ <br />
  
 <details>
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
 </details>
+
+<br />
  
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zac-zajdel&show_icons=true" alt="zac-zajdel" />
@@ -63,11 +69,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zac-zajdel&layout=compact&hide=html" alt="zac-zajdel" />
 </p>
 
-<p align="center">
+<br />
+
+### Connect with me:
   <a href="https://linkedin.com/in/zaczajdel213@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaczajdel213@gmail.com" height="30" width="30" />
    </a>
   <a href="https://instagram.com/zaczajdel" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zaczajdel" height="30" width="30" />
   </a>
-</p>
