@@ -59,6 +59,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zac-zajdel&show_icons=true" alt="zac-zajdel" />
 </p>
 
+<!--START_SECTION:activity-->
+
 <p align="center">
   <a href="https://linkedin.com/in/zaczajdel213@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaczajdel213@gmail.com" height="30" width="30" />
