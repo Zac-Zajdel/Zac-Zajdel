@@ -107,9 +107,9 @@
  
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Zac-Zajdel/chat_application/pull/1) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
-2. 🗣 Commented on [#1042](https://github.com/tailwindlabs/tailwindcss/issues/1042) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-3. 🗣 Commented on [#347](https://github.com/xaksis/vue-good-table/issues/347) in [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table)
+1. 🗣 Commented on [#17239](https://github.com/FortAwesome/Font-Awesome/issues/17239) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+2. 🎉 Merged PR [#1](https://github.com/Zac-Zajdel/chat_application/pull/1) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
+3. 🗣 Commented on [#1042](https://github.com/tailwindlabs/tailwindcss/issues/1042) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 <!--END_SECTION:activity-->
 
 ---
