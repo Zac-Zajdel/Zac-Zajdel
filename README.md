@@ -107,9 +107,9 @@
  
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#783](https://github.com/xaksis/vue-good-table/issues/783) in [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table)
-2. 🗣 Commented on [#782](https://github.com/xaksis/vue-good-table/issues/782) in [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table)
-3. ❗️ Opened issue [#782](https://github.com/xaksis/vue-good-table/issues/782) in [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table)
+1. 💪 Opened PR [#16](https://github.com/Zac-Zajdel/chat_application/pull/16) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
+2. 🗣 Commented on [#783](https://github.com/xaksis/vue-good-table/issues/783) in [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table)
+3. 🗣 Commented on [#782](https://github.com/xaksis/vue-good-table/issues/782) in [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table)
 <!--END_SECTION:activity-->
 
 ---
