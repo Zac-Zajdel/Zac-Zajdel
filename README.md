@@ -107,9 +107,9 @@
  
 ### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/Zac-Zajdel/chat_application/pull/18) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
-2. 💪 Opened PR [#17](https://github.com/Zac-Zajdel/chat_application/pull/17) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
-3. 💪 Opened PR [#16](https://github.com/Zac-Zajdel/chat_application/pull/16) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
+1. 💪 Opened PR [#19](https://github.com/Zac-Zajdel/chat_application/pull/19) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
+2. 💪 Opened PR [#18](https://github.com/Zac-Zajdel/chat_application/pull/18) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
+3. 💪 Opened PR [#17](https://github.com/Zac-Zajdel/chat_application/pull/17) in [Zac-Zajdel/chat_application](https://github.com/Zac-Zajdel/chat_application)
 <!--END_SECTION:activity-->
 
 ---
