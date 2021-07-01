@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React 16, and MongoDB**
 
-- 📫 You can reach me at **zaczajdel213@gmail.com** or **724-757-4216**
+- 📫 You can reach me at **zaczajdel213@gmail.com**
 
 - 📝[Resume](https://drive.google.com/file/d/1o8__fz-3V7gPPMcsvzQdFvMC2rb_BcA7/view?usp=sharing)
 
