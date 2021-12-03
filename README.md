@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Venture Code](https://github.com/Zac-Zajdel/Venture-Code)
 
-- 🌱 I’m currently learning **Advanced TypeScript, React 17, Laravel 8, and Linux**
+- 🌱 I’m currently learning **Advanced TypeScript, React 17, AWS, and Linux**
 
 - 📫 You can reach me at **zaczajdel213@gmail.com**
 
@@ -111,7 +111,4 @@
 </p>
 <br />
 
-### Connect with me:
-  <a href="https://linkedin.com/in/zaczajdel213@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaczajdel213@gmail.com" height="30" width="30" />
-  </a>
+### Connect with me on [LinkedIn](https://linkedin.com/in/zaczajdel213@gmail.com)
