@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Venture Code](https://github.com/Zac-Zajdel/Venture-Code)
 
-- 🌱 I’m currently learning **Advanced TypeScript, React 17, AWS, and Linux**
+- 🌱 I’m currently learning **Next.js, Prisma, Modern React and AWS**
 
 - 📫 You can reach me at **zaczajdel213@gmail.com**
 
