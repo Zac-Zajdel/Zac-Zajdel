@@ -9,6 +9,8 @@
 
 - 📝[Resume](https://drive.google.com/file/d/1o8__fz-3V7gPPMcsvzQdFvMC2rb_BcA7/view?usp=sharing)
 
+- Come check out my [blog](https://zac-zajdel-blog.vercel.app/)! 
+
 ---
 
 - :smiley: Frontend Technologies:
