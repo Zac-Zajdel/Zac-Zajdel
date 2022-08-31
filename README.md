@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zac</h1>
 <h3 align="center">Web development === Happiness and never-ending JavaScript libraries</h3>
 
-- 🔭 I’m currently working on [Venture Code](https://github.com/Zac-Zajdel/Venture-Code)
+- 🔭 I’m currently working on [Jottings](https://github.com/Zac-Zajdel/jottings)
 
 - 🌱 I’m currently learning **Next.js, Prisma, Modern React and AWS**
 
@@ -9,7 +9,7 @@
 
 - 📝[Resume](https://drive.google.com/file/d/1o8__fz-3V7gPPMcsvzQdFvMC2rb_BcA7/view?usp=sharing)
 
-- Come check out my [blog](https://zac-zajdel-blog.vercel.app/)! 
+- Come check out my [blog](https://zaczajdel.com/)! 
 
 ---
 
