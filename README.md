@@ -21,6 +21,9 @@
     <a href="https://nuxtjs.org/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
     </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg' alt="next.js" width="40" height="40"/>
+    </a>
     <a href="https://reactjs.org/" target="_blank">
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' alt="react" width="40" height="40"/>
     </a>
