@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **zaczajdel213@gmail.com**
 
-- Come check out my [blog](https://www.zaczajdel.com/)! 
+- Come check out my [blog](https://zaczajdel.com)! 
 
 ---
 
