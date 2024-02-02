@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [Jottings](https://github.com/Zac-Zajdel/jottings)
 
-🌱 I’m currently learning **React Server Components, Prisma, and Advanced Data Stuctures**
+🌱 I’m currently learning **React Server Components, Prisma, and Advanced MySQL**
 
 📫 You can reach me at **zaczajdel213@gmail.com**
 
