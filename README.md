@@ -3,7 +3,7 @@
 
 🔭 I’m actively working on [Bookmark Oasis](https://github.com/Zac-Zajdel/bookmark-oasis) and [Jottings](https://github.com/Zac-Zajdel/jottings)
 
-🌱 I’m currently learning **Prisma**, **Advanced TypeScript**, and **how to build a Chrome Extension**
+🌱 I’m currently learning **Rust** and **Advanced TypeScript**
 
 📫 You can reach me at **zaczajdel213@gmail.com**
 
