@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zac</h1>
 <h3 align="center">Web development === Happiness and never-ending JavaScript libraries</h3>
 
-🔭 I’m actively working on [Bookmark Oasis](https://github.com/Zac-Zajdel/bookmark-oasis) and [Jottings](https://github.com/Zac-Zajdel/jottings)
-
-🌱 I’m currently learning **Rust** and **Advanced TypeScript**
+🔭 I’m actively working on [Bookmark Oasis](https://github.com/Zac-Zajdel/bookmark-oasis) and learning new technologies. 🤓
 
 📫 You can reach me at **zaczajdel213@gmail.com**
 
