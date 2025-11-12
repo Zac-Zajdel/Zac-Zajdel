@@ -12,19 +12,19 @@ I'm a Senior Software Engineer at [Rimsys](https://www.rimsys.io/) helping billi
 
 Frontend Tools
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=tanstack,nextjs,reactjs,nuxtjs,vuejs,typescript,shadcnui,tailwindcss)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=tanstack,nextjs,reactjs,nuxtjs,vuejs,typescript,shadcnui,tailwindcss)](https://www.zaczajdel.com)
 
 ---
 
 Backend Tools
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=laravel,nodejs,hono,expressjs,amazonwebservices,cloudflare,vercel,upstash,resend)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=laravel,nodejs,hono,expressjs,amazonwebservices,cloudflare,vercel,upstash,resend)](https://www.zaczajdel.com)
 
 ---
 
 Database Tools
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=postgresql,supabase,mysql,prisma,drizzle)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=postgresql,supabase,mysql,prisma,drizzle)](https://www.zaczajdel.com)
 
 ---
 
