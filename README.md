@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer at [Rimsys](https://www.rimsys.io/) helping billion dollar companies get products to market faster!
 
-🔭 I’m actively working on [Feat Sync](https://github.com/Zac-Zajdel/feat-sync) 🤓
+🔭 I’m actively working on [Feat Sync](https://github.com/Zac-Zajdel/feat-sync)
 
 🚀 Check out my [website](https://zaczajdel.com)
 
